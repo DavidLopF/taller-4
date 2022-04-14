@@ -10,3 +10,8 @@
 - Sergio Eduardo, Peña Alméciga
 - Briannys Ahiram, Páez Monserrate
 - David Leonardo, Lopez Forero
+
+
+# info imporrtante
+
+1. Para corerlo agregar la private key y el private_key_id 
